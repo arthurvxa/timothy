@@ -1,8 +1,6 @@
 # timothy
 AI-powered audio recognition and identification and fingerprinting
 
-# timothy
-
 Identificação de músicas tocadas ao vivo.
 
 ## O problema
